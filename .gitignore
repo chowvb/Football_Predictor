@@ -8,3 +8,6 @@ venv/
 
 # VS Code settings
 .vscode/
+
+# Other Files to ignore
+notes.txt
