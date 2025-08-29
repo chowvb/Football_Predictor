@@ -16,9 +16,9 @@ It is organized into **Epics** and **User Stories**, each with acceptance criter
   - System returns placeholder probabilities (e.g., 33/33/33).
 
 - **Tasks:**
-  - [ ] Create function skeleton.
-  - [ ] Add team name validation.
-  - [ ] Return dummy probabilities.
+  - [x] Create function skeleton.
+  - [x] Add team name validation.
+  - [x] Return dummy probabilities.
 
 ---
 
